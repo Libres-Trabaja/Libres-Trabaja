@@ -19,12 +19,6 @@
 - Chat en tiempo real con candidatos
 - Perfil de empresa con galería de instalaciones
 
-## 📱 Capturas
-
-| | | |
-|---|---|---|
-| Inicio candidato | Vacantes | Chat |
-| Perfil reclutador | Postulantes | CV Preview |
 
 ## 🛠️ Tecnologías
 
